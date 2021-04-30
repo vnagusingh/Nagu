@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-21T00:12:00 IST" name="Default suite" finished-at="2021-04-21T00:12:03 IST" duration-ms="2703">
+    <groups>
+    </groups>
+    <test started-at="2021-04-21T00:12:00 IST" name="Default test" finished-at="2021-04-21T00:12:03 IST" duration-ms="2703">
+      <class name="NotepadTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NotepadTest@73ee04c8]" started-at="2021-04-21T00:12:00 IST" name="setUp" finished-at="2021-04-21T00:12:01 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkAboutWindow()[pri:0, instance:NotepadTest@73ee04c8]" started-at="2021-04-21T00:12:01 IST" name="checkAboutWindow" finished-at="2021-04-21T00:12:02 IST" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAboutWindow -->
+        <test-method is-config="true" signature="cleanApp()[pri:0, instance:NotepadTest@73ee04c8]" started-at="2021-04-21T00:12:02 IST" name="cleanApp" finished-at="2021-04-21T00:12:03 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NotepadTest@73ee04c8]" started-at="2021-04-21T00:12:03 IST" name="tearDown" finished-at="2021-04-21T00:12:03 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- NotepadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
